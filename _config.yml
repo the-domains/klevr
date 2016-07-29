@@ -1,0 +1,14 @@
+layout_spectrum: 0.5768848152365535
+typography_spectrum: 0.25105231162160635
+color:
+  brandStrength: 0.3665986463893205
+  lightness: 0.7301756269298494
+  saturation: 0.9500967976637185
+  rhythmicContrast: 0.29654941405169666
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Klevr
