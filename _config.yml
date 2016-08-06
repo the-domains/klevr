@@ -12,3 +12,7 @@ color:
     - '#477725'
     - '#A9CC66'
 name: Klevr
+navigation:
+  - name: Klevr Furniture
+    url: klevr.us
+    type: external
