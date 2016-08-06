@@ -16,3 +16,6 @@ navigation:
   - name: Klevr Furniture
     url: klevr.us
     type: external
+  - name: Software by bergdesign
+    url: bergdesign.com
+    type: external
